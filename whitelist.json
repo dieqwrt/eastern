@@ -1,12 +1,11 @@
 {
-  "whitelists" = [
+  "whitelists": [
     {
       "name": "4vvictim",
       "skipAuth": true
     }
   ],
-
-  "blacklists" = [
+  "blacklists": [
     {
       "name": "Roblox"
     }
