@@ -1,13 +1,3 @@
-{
-  "whitelists": [
-    {
-      "name": "4vvictim",
-      "skipAuth": true
-    }
-  ],
-  "blacklists": [
-    {
-      "name": "Roblox"
-    }
-  ]
+return {
+  ["4vvictim"] = true
 }
